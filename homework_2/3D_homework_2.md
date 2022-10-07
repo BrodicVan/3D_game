@@ -11,7 +11,7 @@
   ![跳一跳](%E8%B7%B3%E4%B8%80%E8%B7%B3%E6%B8%B8%E6%88%8F%E6%88%AA%E5%9B%BE.jpg)  
   在该项目中，其资源按照**功能**进行组织，功能相似的资源放在同一个文件夹下，如脚本、材料、预制对象各放在同一个文件夹下
   ![资源组织](%E8%B5%84%E6%BA%90%E7%BB%84%E7%BB%87.jpg)  
-  而对象则根据游戏物体的组成进行组织，如: 该游戏中的玩家由身体和头组成，则Player对象便由Body和Head两个子对象构成；地板和玩家之间没有组成与包含关系，所以分为Ground和Player两个单独对象
+  而对象则根据游戏物体的组成进行组织，如: 该游戏中的玩家由身体和头组成，则Player对象便由Body和Head两个子对象构成；地板和玩家之间没有组成与包含关系，所以分为Ground和Player两个单独对象  
   ![对象组织](%E5%AF%B9%E8%B1%A1%E7%BB%84%E7%BB%87.jpg#pic_center)
 - 编写一个代码，使用debug语句来验证MonoBehaviour基本行为或事件触发的条件
   - 基本行为包括 Awake() Start() Update() FixedUpdate() LateUpdate()
@@ -445,14 +445,14 @@
     } 
     ``` 
   - 游戏截图
-    - 游戏开始
+    - 游戏开始  
     ![](game_start.jpg)
-    - 游戏中途
+    - 游戏中途  
     ![](game_middle.jpg) 
-    - 游戏胜利
+    - 游戏胜利  
     ![](game_win.jpg)
-    - 游戏失败
+    - 游戏失败  
     ![](game_lose.jpg) 
   
-  - 演示视频  
+  - 演示视频   
   由于github的markdown不支持播放视频，[**请点击该链接进行查看**](https://www.bilibili.com/video/BV1V14y1h7MZ/?vd_source=057a2b7e5be3dc8b29f8d32fd4e65aeb)
