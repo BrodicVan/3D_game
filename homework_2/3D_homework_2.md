@@ -454,5 +454,5 @@
     - 游戏失败
     ![](game_lose.jpg) 
   
-  - 演示视频
-  <video src="./game_video.mp4" width="800px" height="600px" controls="controls"></video>
+  - 演示视频  
+  由于github的markdown不支持播放视频，[**请点击该链接进行查看**](https://www.bilibili.com/video/BV1V14y1h7MZ/?vd_source=057a2b7e5be3dc8b29f8d32fd4e65aeb)
