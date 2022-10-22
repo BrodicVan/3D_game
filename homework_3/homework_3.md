@@ -1,6 +1,6 @@
 # 第三次3D编程作业
 
-**本次作业源代码连接：点击此处进行跳转**
+[**本次作业源代码连接：点击此处进行跳转**](https://github.com/BrodicVan/3D_game)
 ## 1. 简答并用程序验证
 - 游戏对象运动的本质是什么  
   游戏对象空间属性(坐标、旋转度、大小)的变化
@@ -102,7 +102,7 @@
   5. 太阳并不位于轨道中心，但在缩放比例之后，太阳半径相对于水星的公转轨迹半长轴相差无几，也就很难体现出太阳的非圆心性，所以干脆将太阳作为轨道圆心
 
  
-  相关代码如下：[源代码下载]()
+  相关代码如下：[源代码下载](https://github.com/BrodicVan/3D_game)
   - 记录公转轨迹的脚本：LineMark
   ```C#
   using System.Collections;
@@ -236,7 +236,7 @@ You can try it in many > ways. Keep all priests alive! Good luck!
 ![](预制体小图.jpg)
 ![](预制体大图.jpg)
 4. 主要代码  
-由于代码过多，所以我挑选重要部分进行展示，[完整代码请点击该链接下载 ]()，
+由于代码过多，所以我挑选重要部分进行展示，[下载完整代码请点击该链接](https://github.com/BrodicVan/3D_game)，
 [直接查看游戏效果请点击该链接](https://www.bilibili.com/video/BV1rW4y177Ep/?vd_source=057a2b7e5be3dc8b29f8d32fd4e65aeb);  
 
     1. SSDirector.cs ：SSDirector类和ISceneController接口  
