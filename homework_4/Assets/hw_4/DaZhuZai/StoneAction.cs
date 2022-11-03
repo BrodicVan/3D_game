@@ -17,7 +17,7 @@ namespace hw_4
         // Update is called once per frame
         void Update()
         {
-            this.gameObject.transform.position += speed*Time.deltaTime*2;
+            this.gameObject.transform.position += speed*Time.deltaTime;
             if(Vector3.Distance(this.gameObject.transform.position,destination)<0.1f)
                 Destroy(this.gameObject);
         }
